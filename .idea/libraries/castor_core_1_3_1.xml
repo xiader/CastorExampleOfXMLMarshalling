@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="castor-core-1.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/castor-core-1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/castor-xml-1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/commons-logging-1.2.jar!/" />
+      <root url="file://$USER_HOME$/IdeaProjects" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/IdeaProjects/BrootforceServer" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/IdeaProjects/AntTasker/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/BrootforceClient/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/BrootforceServer/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/CARS/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/ChatRoomPrj/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/GUITest/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/MVC/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/NEW1/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/SystemUI/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/Zadanie2ShvetsovAlexander" />
+      <root url="file://$USER_HOME$/IdeaProjects/Zadanie2ShvetsovAlexander/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/frameworktest/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/skillup/src/main/java" />
+      <root url="file://$USER_HOME$/IdeaProjects/tesss/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/testFacroty/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/threads/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/untitled1/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/untitled2222/src" />
+      <root url="file://$USER_HOME$/IdeaProjects" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/IdeaProjects" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/IdeaProjects" recursive="false" type="SOURCES" />
+  </library>
+</component>
